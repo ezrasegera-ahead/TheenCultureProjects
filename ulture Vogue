@@ -1,0 +1,28 @@
+Cultureprojects/
+│
+├── README.md
+├── docs/
+│   ├── proposal/
+│   ├── system-design/
+│   ├── api-specs/
+│   └── diagrams/
+│
+├── backend/
+│   ├── src/
+│   ├── routes/
+│   ├── controllers/
+│   ├── models/
+│   └── server.js
+│
+├── frontend/
+│   ├── src/
+│   ├── components/
+│   ├── pages/
+│   └── App.js
+│
+├── database/
+│   └── schema.sql
+│
+├── tests/
+│
+└── .gitignore
